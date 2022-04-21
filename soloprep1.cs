@@ -7,14 +7,15 @@ namespace MyApp // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
+
 string first;
 string last;
 
 Console.WriteLine("what is your first name?");
-first = Console.ReadLine();
+ first = Console.ReadLine();
 
 Console.WriteLine("what is your last name?");
-last = Console.ReadLine();
+ last = Console.ReadLine();
 
 Console.WriteLine($"Your name is {last}, {first} {last}.");
         }
