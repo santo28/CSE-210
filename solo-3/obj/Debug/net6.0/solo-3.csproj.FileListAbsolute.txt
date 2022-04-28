@@ -1,0 +1,15 @@
+C:\Users\marvi\Documents\CSE-210\solo-3\bin\Debug\net6.0\solo-3.exe
+C:\Users\marvi\Documents\CSE-210\solo-3\bin\Debug\net6.0\solo-3.deps.json
+C:\Users\marvi\Documents\CSE-210\solo-3\bin\Debug\net6.0\solo-3.runtimeconfig.json
+C:\Users\marvi\Documents\CSE-210\solo-3\bin\Debug\net6.0\solo-3.dll
+C:\Users\marvi\Documents\CSE-210\solo-3\bin\Debug\net6.0\solo-3.pdb
+C:\Users\marvi\Documents\CSE-210\solo-3\obj\Debug\net6.0\solo-3.csproj.AssemblyReference.cache
+C:\Users\marvi\Documents\CSE-210\solo-3\obj\Debug\net6.0\solo-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marvi\Documents\CSE-210\solo-3\obj\Debug\net6.0\solo-3.AssemblyInfoInputs.cache
+C:\Users\marvi\Documents\CSE-210\solo-3\obj\Debug\net6.0\solo-3.AssemblyInfo.cs
+C:\Users\marvi\Documents\CSE-210\solo-3\obj\Debug\net6.0\solo-3.csproj.CoreCompileInputs.cache
+C:\Users\marvi\Documents\CSE-210\solo-3\obj\Debug\net6.0\solo-3.dll
+C:\Users\marvi\Documents\CSE-210\solo-3\obj\Debug\net6.0\refint\solo-3.dll
+C:\Users\marvi\Documents\CSE-210\solo-3\obj\Debug\net6.0\solo-3.pdb
+C:\Users\marvi\Documents\CSE-210\solo-3\obj\Debug\net6.0\solo-3.genruntimeconfig.cache
+C:\Users\marvi\Documents\CSE-210\solo-3\obj\Debug\net6.0\ref\solo-3.dll
