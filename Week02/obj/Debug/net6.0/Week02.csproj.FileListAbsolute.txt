@@ -1,0 +1,15 @@
+C:\Users\marvi\Documents\CSE-210\Week02\bin\Debug\net6.0\Week02.exe
+C:\Users\marvi\Documents\CSE-210\Week02\bin\Debug\net6.0\Week02.deps.json
+C:\Users\marvi\Documents\CSE-210\Week02\bin\Debug\net6.0\Week02.runtimeconfig.json
+C:\Users\marvi\Documents\CSE-210\Week02\bin\Debug\net6.0\Week02.dll
+C:\Users\marvi\Documents\CSE-210\Week02\bin\Debug\net6.0\Week02.pdb
+C:\Users\marvi\Documents\CSE-210\Week02\obj\Debug\net6.0\Week02.csproj.AssemblyReference.cache
+C:\Users\marvi\Documents\CSE-210\Week02\obj\Debug\net6.0\Week02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marvi\Documents\CSE-210\Week02\obj\Debug\net6.0\Week02.AssemblyInfoInputs.cache
+C:\Users\marvi\Documents\CSE-210\Week02\obj\Debug\net6.0\Week02.AssemblyInfo.cs
+C:\Users\marvi\Documents\CSE-210\Week02\obj\Debug\net6.0\Week02.csproj.CoreCompileInputs.cache
+C:\Users\marvi\Documents\CSE-210\Week02\obj\Debug\net6.0\Week02.dll
+C:\Users\marvi\Documents\CSE-210\Week02\obj\Debug\net6.0\refint\Week02.dll
+C:\Users\marvi\Documents\CSE-210\Week02\obj\Debug\net6.0\Week02.pdb
+C:\Users\marvi\Documents\CSE-210\Week02\obj\Debug\net6.0\Week02.genruntimeconfig.cache
+C:\Users\marvi\Documents\CSE-210\Week02\obj\Debug\net6.0\ref\Week02.dll
