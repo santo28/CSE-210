@@ -1,3 +1,6 @@
+using System.Diagnostics;
+
+[DebuggerDisplay($"{{{nameof(GetDebuggerDisplay)}(),nq}}")]
 public class Director
     {
         List<Die> dice = new List<Die>();
@@ -79,4 +82,9 @@ public class Director
             Console.WriteLine($"Your score is: {totalScore}\n");
             isPlaying = (score > 0);
         }
+
+    private string GetDebuggerDisplay()
+    {
+        return ToString();
     }
+}

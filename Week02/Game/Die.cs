@@ -1,4 +1,7 @@
- public class Die
+using System.Diagnostics;
+
+[DebuggerDisplay($"{{{nameof(GetDebuggerDisplay)}(),nq}}")]
+public class Die
     {
         public int value = 0;
         public int points = 0;
@@ -32,4 +35,8 @@
             }
         }
 
+    private string GetDebuggerDisplay()
+    {
+        return ToString();
     }
+}
