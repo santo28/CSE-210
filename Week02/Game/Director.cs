@@ -48,7 +48,7 @@ public class Director
         /// </summary>
         public void DoUpdates()
         {
-            if (!isPlaying)
+            if (isPlaying == false)
             {
                 return;
             }
@@ -67,7 +67,7 @@ public class Director
         /// </summary>
         public void DoOutputs()
         {
-            if (!isPlaying)
+            if (isPlaying == false)
             {
                 return;
             }
