@@ -1,0 +1,15 @@
+C:\Users\marvi\Documents\CSE-210\practiceQuote\bin\Debug\net6.0\practiceQuote.exe
+C:\Users\marvi\Documents\CSE-210\practiceQuote\bin\Debug\net6.0\practiceQuote.deps.json
+C:\Users\marvi\Documents\CSE-210\practiceQuote\bin\Debug\net6.0\practiceQuote.runtimeconfig.json
+C:\Users\marvi\Documents\CSE-210\practiceQuote\bin\Debug\net6.0\practiceQuote.dll
+C:\Users\marvi\Documents\CSE-210\practiceQuote\bin\Debug\net6.0\practiceQuote.pdb
+C:\Users\marvi\Documents\CSE-210\practiceQuote\obj\Debug\net6.0\practiceQuote.csproj.AssemblyReference.cache
+C:\Users\marvi\Documents\CSE-210\practiceQuote\obj\Debug\net6.0\practiceQuote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marvi\Documents\CSE-210\practiceQuote\obj\Debug\net6.0\practiceQuote.AssemblyInfoInputs.cache
+C:\Users\marvi\Documents\CSE-210\practiceQuote\obj\Debug\net6.0\practiceQuote.AssemblyInfo.cs
+C:\Users\marvi\Documents\CSE-210\practiceQuote\obj\Debug\net6.0\practiceQuote.csproj.CoreCompileInputs.cache
+C:\Users\marvi\Documents\CSE-210\practiceQuote\obj\Debug\net6.0\practiceQuote.dll
+C:\Users\marvi\Documents\CSE-210\practiceQuote\obj\Debug\net6.0\refint\practiceQuote.dll
+C:\Users\marvi\Documents\CSE-210\practiceQuote\obj\Debug\net6.0\practiceQuote.pdb
+C:\Users\marvi\Documents\CSE-210\practiceQuote\obj\Debug\net6.0\practiceQuote.genruntimeconfig.cache
+C:\Users\marvi\Documents\CSE-210\practiceQuote\obj\Debug\net6.0\ref\practiceQuote.dll
