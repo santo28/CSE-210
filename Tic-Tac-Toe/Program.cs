@@ -53,7 +53,7 @@ namespace Game
         static void playerOne(List<char> displayboard){
             int check = 0;
             while (check == 0){
-                Console.Write("x's turn to choose a square (1-9):");
+                Console.Write("player 1 choose a square (1-9):");
                 char playerOneInput = Console.ReadLine()[0];
                 int intVal = (int)Char.GetNumericValue(playerOneInput) - 1;
                 if (Char.Equals(displayboard[intVal],playerOneInput)){
@@ -75,7 +75,7 @@ namespace Game
         static void playerTwo(List<char> displayboard){
             int check = 0;
             while (check == 0){
-                Console.Write("o's turn to choose a square (1-9):");
+                Console.Write("player 2 choose a square (1-9):");
                 char playerTwoInput = Console.ReadLine()[0];
                 int intVal = (int)Char.GetNumericValue(playerTwoInput) - 1;
                 if (Char.Equals(displayboard[intVal],playerTwoInput)){
