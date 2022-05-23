@@ -1,0 +1,15 @@
+C:\Users\marvi\Documents\CSE-210\Hilo-Game\bin\Debug\net6.0\Hilo-Game.exe
+C:\Users\marvi\Documents\CSE-210\Hilo-Game\bin\Debug\net6.0\Hilo-Game.deps.json
+C:\Users\marvi\Documents\CSE-210\Hilo-Game\bin\Debug\net6.0\Hilo-Game.runtimeconfig.json
+C:\Users\marvi\Documents\CSE-210\Hilo-Game\bin\Debug\net6.0\Hilo-Game.dll
+C:\Users\marvi\Documents\CSE-210\Hilo-Game\bin\Debug\net6.0\Hilo-Game.pdb
+C:\Users\marvi\Documents\CSE-210\Hilo-Game\obj\Debug\net6.0\Hilo-Game.csproj.AssemblyReference.cache
+C:\Users\marvi\Documents\CSE-210\Hilo-Game\obj\Debug\net6.0\Hilo-Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marvi\Documents\CSE-210\Hilo-Game\obj\Debug\net6.0\Hilo-Game.AssemblyInfoInputs.cache
+C:\Users\marvi\Documents\CSE-210\Hilo-Game\obj\Debug\net6.0\Hilo-Game.AssemblyInfo.cs
+C:\Users\marvi\Documents\CSE-210\Hilo-Game\obj\Debug\net6.0\Hilo-Game.csproj.CoreCompileInputs.cache
+C:\Users\marvi\Documents\CSE-210\Hilo-Game\obj\Debug\net6.0\Hilo-Game.dll
+C:\Users\marvi\Documents\CSE-210\Hilo-Game\obj\Debug\net6.0\refint\Hilo-Game.dll
+C:\Users\marvi\Documents\CSE-210\Hilo-Game\obj\Debug\net6.0\Hilo-Game.pdb
+C:\Users\marvi\Documents\CSE-210\Hilo-Game\obj\Debug\net6.0\Hilo-Game.genruntimeconfig.cache
+C:\Users\marvi\Documents\CSE-210\Hilo-Game\obj\Debug\net6.0\ref\Hilo-Game.dll
