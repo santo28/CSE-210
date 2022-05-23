@@ -21,7 +21,7 @@ namespace hilo_game
             }
         }
 
-        ///Starts game, connected to program.cs
+
         public void StartGame()
         {
             foreach (Card card in cards){
@@ -35,7 +35,6 @@ namespace hilo_game
             }
         }
 
-        ///actual game, pulls card and asks for input regarding the card. Checks value compared to guess
         public void MainGame(){
             Console.WriteLine($"The card is {currentCard}");
             if (!isPlaying)
@@ -71,7 +70,7 @@ namespace hilo_game
 
         }
 
-        /// Checks if the game should keep going, whether by a a score of 0 or by player choice
+        
         public void GameCheck(){
             Console.WriteLine($"Your score is: {totalScore}");
             if (totalScore == 0){
