@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XBHIu2ET8s56OP6sJZE9B4qqyNOQd+MoZlqA+LXHMCATf+nS6VuQb+3/+b4hwCe2AaLjYI/k2arcL4rtW9fTBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marvi\\Documents\\C#-Complete\\cse210-student-articulate-csharp-complete\\Unit05\\Unit05.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marvi\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\marvi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
