@@ -121,11 +121,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\marvi\\Documents\\C#-Complete\\cse210-student-articulate-csharp-complete\\Unit05\\Unit05.csproj",
+      "projectUniqueName": "C:\\Users\\marvi\\Documents\\CSE-210\\Snake Game\\Unit05.csproj",
       "projectName": "Unit05",
-      "projectPath": "c:\\Users\\marvi\\Documents\\C#-Complete\\cse210-student-articulate-csharp-complete\\Unit05\\Unit05.csproj",
+      "projectPath": "C:\\Users\\marvi\\Documents\\CSE-210\\Snake Game\\Unit05.csproj",
       "packagesPath": "C:\\Users\\marvi\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\marvi\\Documents\\C#-Complete\\cse210-student-articulate-csharp-complete\\Unit05\\obj\\",
+      "outputPath": "C:\\Users\\marvi\\Documents\\CSE-210\\Snake Game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marvi\\AppData\\Roaming\\NuGet\\NuGet.Config"
