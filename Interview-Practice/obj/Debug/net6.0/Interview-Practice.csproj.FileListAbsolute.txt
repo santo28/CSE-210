@@ -1,0 +1,15 @@
+C:\Users\marvi\Documents\CSE-210\Interview-Practice\bin\Debug\net6.0\Interview-Practice.exe
+C:\Users\marvi\Documents\CSE-210\Interview-Practice\bin\Debug\net6.0\Interview-Practice.deps.json
+C:\Users\marvi\Documents\CSE-210\Interview-Practice\bin\Debug\net6.0\Interview-Practice.runtimeconfig.json
+C:\Users\marvi\Documents\CSE-210\Interview-Practice\bin\Debug\net6.0\Interview-Practice.dll
+C:\Users\marvi\Documents\CSE-210\Interview-Practice\bin\Debug\net6.0\Interview-Practice.pdb
+C:\Users\marvi\Documents\CSE-210\Interview-Practice\obj\Debug\net6.0\Interview-Practice.csproj.AssemblyReference.cache
+C:\Users\marvi\Documents\CSE-210\Interview-Practice\obj\Debug\net6.0\Interview-Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marvi\Documents\CSE-210\Interview-Practice\obj\Debug\net6.0\Interview-Practice.AssemblyInfoInputs.cache
+C:\Users\marvi\Documents\CSE-210\Interview-Practice\obj\Debug\net6.0\Interview-Practice.AssemblyInfo.cs
+C:\Users\marvi\Documents\CSE-210\Interview-Practice\obj\Debug\net6.0\Interview-Practice.csproj.CoreCompileInputs.cache
+C:\Users\marvi\Documents\CSE-210\Interview-Practice\obj\Debug\net6.0\Interview-Practice.dll
+C:\Users\marvi\Documents\CSE-210\Interview-Practice\obj\Debug\net6.0\refint\Interview-Practice.dll
+C:\Users\marvi\Documents\CSE-210\Interview-Practice\obj\Debug\net6.0\Interview-Practice.pdb
+C:\Users\marvi\Documents\CSE-210\Interview-Practice\obj\Debug\net6.0\Interview-Practice.genruntimeconfig.cache
+C:\Users\marvi\Documents\CSE-210\Interview-Practice\obj\Debug\net6.0\ref\Interview-Practice.dll

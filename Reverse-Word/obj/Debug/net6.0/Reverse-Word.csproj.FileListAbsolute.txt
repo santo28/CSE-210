@@ -1,0 +1,15 @@
+C:\Users\marvi\Documents\CSE-210\Reverse-Word\bin\Debug\net6.0\Reverse-Word.exe
+C:\Users\marvi\Documents\CSE-210\Reverse-Word\bin\Debug\net6.0\Reverse-Word.deps.json
+C:\Users\marvi\Documents\CSE-210\Reverse-Word\bin\Debug\net6.0\Reverse-Word.runtimeconfig.json
+C:\Users\marvi\Documents\CSE-210\Reverse-Word\bin\Debug\net6.0\Reverse-Word.dll
+C:\Users\marvi\Documents\CSE-210\Reverse-Word\bin\Debug\net6.0\Reverse-Word.pdb
+C:\Users\marvi\Documents\CSE-210\Reverse-Word\obj\Debug\net6.0\Reverse-Word.csproj.AssemblyReference.cache
+C:\Users\marvi\Documents\CSE-210\Reverse-Word\obj\Debug\net6.0\Reverse-Word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marvi\Documents\CSE-210\Reverse-Word\obj\Debug\net6.0\Reverse-Word.AssemblyInfoInputs.cache
+C:\Users\marvi\Documents\CSE-210\Reverse-Word\obj\Debug\net6.0\Reverse-Word.AssemblyInfo.cs
+C:\Users\marvi\Documents\CSE-210\Reverse-Word\obj\Debug\net6.0\Reverse-Word.csproj.CoreCompileInputs.cache
+C:\Users\marvi\Documents\CSE-210\Reverse-Word\obj\Debug\net6.0\Reverse-Word.dll
+C:\Users\marvi\Documents\CSE-210\Reverse-Word\obj\Debug\net6.0\refint\Reverse-Word.dll
+C:\Users\marvi\Documents\CSE-210\Reverse-Word\obj\Debug\net6.0\Reverse-Word.pdb
+C:\Users\marvi\Documents\CSE-210\Reverse-Word\obj\Debug\net6.0\Reverse-Word.genruntimeconfig.cache
+C:\Users\marvi\Documents\CSE-210\Reverse-Word\obj\Debug\net6.0\ref\Reverse-Word.dll
